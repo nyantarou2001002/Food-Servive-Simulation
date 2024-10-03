@@ -4,7 +4,7 @@
 
 プロジェクトのテーマは食事で、FoodItems、Restaurant、そして Customer や Employee といった人々をモデル化する Person クラスのモデリングを含みます。
 
-コードのは以下の構成になっています。
+UML図は以下のようにになっています。
 ![image](https://github.com/user-attachments/assets/cd75fec6-7936-4171-a88c-393645d59f4d)
 
 
