@@ -8,10 +8,10 @@
 ![image](https://github.com/user-attachments/assets/7ab0fc3e-0b6e-43ba-bcb6-1f66a7470526)
 
 
-また今回はコマンド上で下記のコマンドを実行すると例の場合のシミュレーションが実行できます。
+また今回はコマンド上で下記のコマンドを実行するとシミュレーションが実行できます。
 ```
 php main.php
 ```
 
-例：レストランの saizeriya は、Chef の Invah、Cashier の Nadia を雇っています。saizeriya のメニューは CheesBurger、Fettuccine、HwaiianPizza、Spaghetti があります。客である Tom は、Margherita x 1, CheseeBurger x 2, Spaghetti x 1 を食べたく saizeriya でオーダーしました。
+シミレーション内容：レストランの saizeriya は、Chef の Invah、Cashier の Nadia を雇っています。saizeriya のメニューは CheesBurger、Fettuccine、HwaiianPizza、Spaghetti があります。客である Tom は、Margherita x 1, CheseeBurger x 2, Spaghetti x 1 を食べたく saizeriya でオーダーしました。
 
