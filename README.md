@@ -4,8 +4,8 @@
 
 プロジェクトのテーマは食事で、FoodItems、Restaurant、そして Customer や Employee といった人々をモデル化する Person クラスのモデリングを含みます。
 
-コードの構成は以下のようになっています。
-![image](https://github.com/user-attachments/assets/7ab0fc3e-0b6e-43ba-bcb6-1f66a7470526)
+コードのは以下の構成になっています。
+![image](https://github.com/user-attachments/assets/cd75fec6-7936-4171-a88c-393645d59f4d)
 
 
 また今回はコマンド上で下記のコマンドを実行するとシミュレーションが実行できます。
